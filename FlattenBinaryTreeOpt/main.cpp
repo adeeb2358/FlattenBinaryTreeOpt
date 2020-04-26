@@ -5,6 +5,7 @@
 //  Created by adeeb mohammed on 27/04/20.
 //  Copyright © 2020 adeeb mohammed. All rights reserved.
 //
+// time complexity is o(n) space complexity is o(d)
 
 #include <iostream>
 #include <vector>
